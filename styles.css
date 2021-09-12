@@ -1,0 +1,7 @@
+.grid-container {
+  display: flex;
+  background-color: blue;
+}
+.grid-passed {
+  background-color: red;
+}
